@@ -1,0 +1,10 @@
+#pragma once
+#include <Windows.h>
+#include <GL\glew.h>
+#include <GL\freeglut.h>
+#include <iostream>
+#include <vector>
+#include "game.h"
+#include "player.h"
+#include "camera.h"
+#include "texture.h"
